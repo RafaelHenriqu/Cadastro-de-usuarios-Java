@@ -21,11 +21,6 @@ Este projeto demonstra o uso de:
 - Entrada de dados com `Scanner`
 
 ---
- 
-```yaml
-
-
----
 
 ## 📜 Código principal (`Main.java`)
 
@@ -52,6 +47,4 @@ Este projeto demonstra o uso de:
 ---
 
 
-
-```
 Recomendamos que você veja o [Main](Main.java) para mais detalhes.
